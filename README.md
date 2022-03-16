@@ -6,7 +6,6 @@
   https://www.linkedin.com/in/estevan-aquiles-pazzetti-770a7734/
   estevanpazzetti@gmail.com
   
-<!---
-estevanaquiles/estevanaquiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projeto desenvolvido em python para análise e predição de queda de performance em SGBD IBM-DB2 com base nas principais características de consumo do banco de dados e do uso de recursos do servidor.
+
+Projeto desenvolvido no Google Colab, utilizando base dados criada para este fim.
