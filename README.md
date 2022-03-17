@@ -10,7 +10,7 @@ Projeto desenvolvido em python para análise e predição de queda de performanc
 
 Projeto desenvolvido no Google Colab, utilizando base dados criada para este fim.
 
-Algoritmos de classificação:
+Algoritmos de classificação pare predição de quedas de performance:
 - Naive Bayes
 - Árvore de Decisão
 - KNN
